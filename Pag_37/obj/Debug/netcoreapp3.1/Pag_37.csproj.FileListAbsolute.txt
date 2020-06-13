@@ -1,0 +1,13 @@
+D:\André\Git\Livro_k19\Pag_37\bin\Debug\netcoreapp3.1\Pag_37.exe
+D:\André\Git\Livro_k19\Pag_37\bin\Debug\netcoreapp3.1\Pag_37.deps.json
+D:\André\Git\Livro_k19\Pag_37\bin\Debug\netcoreapp3.1\Pag_37.runtimeconfig.json
+D:\André\Git\Livro_k19\Pag_37\bin\Debug\netcoreapp3.1\Pag_37.runtimeconfig.dev.json
+D:\André\Git\Livro_k19\Pag_37\bin\Debug\netcoreapp3.1\Pag_37.dll
+D:\André\Git\Livro_k19\Pag_37\bin\Debug\netcoreapp3.1\Pag_37.pdb
+D:\André\Git\Livro_k19\Pag_37\obj\Debug\netcoreapp3.1\Pag_37.csprojAssemblyReference.cache
+D:\André\Git\Livro_k19\Pag_37\obj\Debug\netcoreapp3.1\Pag_37.AssemblyInfoInputs.cache
+D:\André\Git\Livro_k19\Pag_37\obj\Debug\netcoreapp3.1\Pag_37.AssemblyInfo.cs
+D:\André\Git\Livro_k19\Pag_37\obj\Debug\netcoreapp3.1\Pag_37.csproj.CoreCompileInputs.cache
+D:\André\Git\Livro_k19\Pag_37\obj\Debug\netcoreapp3.1\Pag_37.dll
+D:\André\Git\Livro_k19\Pag_37\obj\Debug\netcoreapp3.1\Pag_37.pdb
+D:\André\Git\Livro_k19\Pag_37\obj\Debug\netcoreapp3.1\Pag_37.genruntimeconfig.cache
