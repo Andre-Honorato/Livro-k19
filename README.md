@@ -11,7 +11,7 @@
 
 - #### Download: Basta apenas clicar em https://github.com/dedehlol/Livro-k19/archive/master.zip
 
-#### Após baixar: Caso esteja no VS abra o arquivo Pag_37.csproj, caso esteja no VS Code digite `code .` no terminal
+- #### Após baixar: Caso esteja no VS abra o arquivo Pag_37.csproj, caso esteja no VS Code digite `code .` no terminal
 
 # Atenção!
 
